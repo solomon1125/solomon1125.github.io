@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "백지혜"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Jesus.jpg
   bio              : "김소연 짱팬"
   location         : "대한민국, 서울"
   email            : "solomon1125@naver.com"
