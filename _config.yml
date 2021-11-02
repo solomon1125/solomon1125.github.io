@@ -25,7 +25,7 @@ url                      : "https://solomon1125.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "solomon1125/solomon1125.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/hello.jpg"
+logo                     : "/assets/images/Jesus.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "백지혜"
-  avatar           : "/assets/images/Jesus.jpg"
+  avatar           : "/assets/images/hello.jpg"
   bio              : "김소연 짱팬"
   location         : "대한민국, 서울"
   email            : "solomon1125@naver.com"
