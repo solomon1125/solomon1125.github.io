@@ -14,7 +14,7 @@ title: "경제관련 영화"
 
 [![movieposter](/assets/images/movieposter.png "영화요약 영상입니다! 궁금하시다면 방문해보세요")](https://www.youtube.com/watch?v=PilQgRhwJrU)
 
-###### 참고) 위의 사진을 클릭하면 영화요약영상을 시청하실 수 있습니다. (출처: 예쓰'시네마S'CINEMA)
+참고) 위의 사진을 클릭하면 영화요약영상을 시청하실 수 있습니다. (출처: 예쓰'시네마S'CINEMA)
 
 ---
 ##### **￭ 인사이드 잡**
@@ -23,4 +23,4 @@ title: "경제관련 영화"
 
 [![movieposter2](/assets/images/movieposter2.png "영화요약 영상입니다! 궁금하시다면 방문해보세요")](https://www.youtube.com/watch?v=SoUkeJx-V4M)
 
-###### 참고) 위의 사진을 클릭하면 영화요약영상을 시청하실 수 있습니다. (출처: 무비퓨레, moviepuree)
+참고) 위의 사진을 클릭하면 영화요약영상을 시청하실 수 있습니다. (출처: 무비퓨레, moviepuree)
