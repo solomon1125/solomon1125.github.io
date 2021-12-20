@@ -11,3 +11,12 @@ title: "경제관련 영화"
 [![movieposter](/assets/images/movieposter.png "영화요약 영상입니다! 궁금하시다면 방문해보세요")](https://www.youtube.com/watch?v=PilQgRhwJrU)
 
 ###### 참고) 위의 사진을 클릭하면 영화요약영상을 시청하실 수 있습니다. (출처: 예쓰'시네마S'CINEMA)
+
+---
+##### **￭ 인사이드 잡**
+
+인사이드 잡은 리먼사태를 배경으로 하고 있는 영화로, 금융위기로 인한 사람들의 삶의 모습을 그려냄과 동시에, 여전히 돈과 권력을 손에 쥐고 있는 사람들을 함께 보여주고 있어 정말 재밌는 영화 중 하나입니다. 
+
+[![movieposter2](/assets/images/movieposter2.png "영화요약 영상입니다! 궁금하시다면 방문해보세요")](https://www.youtube.com/watch?v=SoUkeJx-V4M)
+
+###### 참고) 위의 사진을 클릭하면 영화요약영상을 시청하실 수 있습니다. (출처: 무비퓨레, moviepuree)
