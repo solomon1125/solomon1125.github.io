@@ -1,5 +1,9 @@
 ---
 layout: single
+toc: true
+toc_sticky: true
+toc_label: "목차"
+categories: "경제관련 영화"
 title: "경제관련 영화"
 ---
 ##### **￭ 국가부도의 날**
