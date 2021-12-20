@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
-title                    : "동국대 4대여신"
+title                    : "Economic Analyst"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "백지혜"
-description              : "배우 전지현과 김소연 덕질을 위한 블로그입니다!!"
+name                     : "Baek jihye"
+description              : "애널리스트가 되고 싶은 지혜의 이야기"
 url                      : "https://solomon1125.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "solomon1125/solomon1125.github.io"
@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "백지혜"
   avatar           : "/assets/images/hello.jpg"
-  bio              : "김소연 짱팬"
-  location         : "대한민국, 서울"
+  bio              : "경제를 사랑하는 차기 애널리스트"
+  location         : "대한민국, 경기"
   email            : "solomon1125@naver.com"
   links:
     - label: "Email"
